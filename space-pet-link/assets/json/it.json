@@ -1,0 +1,23 @@
+{
+  "resetProgress": "Azzerare i progressi?",
+  "playEasy": "Facile",
+  "playHard": "Difficile",
+  "level": "Livello",
+  "yes": "Sì",
+  "no": "No",
+  "getHint": "Ottieni",
+  "back": "Indietro",
+  "shuffle": "CONFERMI?",
+  "nextlevel": "Seguente",
+  "score": "Punteggio",
+  "restart": "Riavvia",
+  "continue": "Continua",
+  "home": "Home",
+  "sound": "Suono",
+  "music": "Musica",
+  "watchADHint": "Guarda annuncio per ottenere +1 suggerimento",
+  "watchADTime": "Guarda annuncio per ottenere +<x> secondi",
+  "noMatches": "Non ci sono più corrispondenze",
+  "timebonus": "BONUS TEMPO",
+  "hardI": "Mettiti alla prova con la nuova modalità difficile! In questa modalità:\n\n● Devi superare il livello entro il tempo limite\n● Puoi utilizzare solo un numero limitato di suggerimenti\n● Ci sono meno tessere che si ripetono in ogni livello"
+}

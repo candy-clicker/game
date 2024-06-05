@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "d_center_glow": {
+            "frame": {
+                "x": 0,
+                "y": 400,
+                "w": 66,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 72
+            }
+        },
+        "d_left_glow - Copy": {
+            "frame": {
+                "x": 0,
+                "y": 321,
+                "w": 72,
+                "h": 69
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 69
+            }
+        },
+        "d_left_glow": {
+            "frame": {
+                "x": 82,
+                "y": 321,
+                "w": 72,
+                "h": 69
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 69
+            }
+        },
+        "d_right_glow": {
+            "frame": {
+                "x": 76,
+                "y": 400,
+                "w": 65,
+                "h": 71
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 71
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 71
+            }
+        },
+        "firefly_light": {
+            "frame": {
+                "x": 493,
+                "y": 291,
+                "w": 8,
+                "h": 8
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 8
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 8
+            }
+        },
+        "logo": {
+            "frame": {
+                "x": 493,
+                "y": 0,
+                "w": 389,
+                "h": 281
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 389,
+                "h": 281
+            },
+            "sourceSize": {
+                "w": 389,
+                "h": 281
+            }
+        },
+        "logo_under_glow": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 483,
+                "h": 311
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 483,
+                "h": 311
+            },
+            "sourceSize": {
+                "w": 483,
+                "h": 311
+            }
+        },
+        "minilogo": {
+            "frame": {
+                "x": 164,
+                "y": 321,
+                "w": 64,
+                "h": 43
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 43
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 43
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "BOOT-logo.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 882,
+            "h": 472
+        },
+        "scale": 1
+    }
+}

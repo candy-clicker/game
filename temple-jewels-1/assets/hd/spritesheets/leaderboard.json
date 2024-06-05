@@ -1,0 +1,114 @@
+{
+    "frames": {
+        "leaderboard-1stTab": {
+            "frame": {
+                "x": 700,
+                "y": 224,
+                "w": 690,
+                "h": 110
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 690,
+                "h": 110
+            },
+            "sourceSize": {
+                "w": 690,
+                "h": 110
+            }
+        },
+        "leaderboard-2ndTab": {
+            "frame": {
+                "x": 700,
+                "y": 344,
+                "w": 690,
+                "h": 110
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 690,
+                "h": 110
+            },
+            "sourceSize": {
+                "w": 690,
+                "h": 110
+            }
+        },
+        "leaderboard-body-bg": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 690,
+                "h": 576
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 690,
+                "h": 576
+            },
+            "sourceSize": {
+                "w": 690,
+                "h": 576
+            }
+        },
+        "leaderboard-chin": {
+            "frame": {
+                "x": 700,
+                "y": 0,
+                "w": 690,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 690,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 690,
+                "h": 214
+            }
+        },
+        "leaderboard-entryBg": {
+            "frame": {
+                "x": 700,
+                "y": 464,
+                "w": 560,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 560,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 560,
+                "h": 70
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "leaderboard.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1390,
+            "h": 576
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "resetProgress": "¿Reiniciar tu progreso?",
+  "playEasy": "Fácil",
+  "playHard": "Difícil",
+  "level": "Nivel",
+  "yes": "Sí",
+  "no": "No",
+  "getHint": "Obtener",
+  "back": "Volver",
+  "shuffle": "¿SEGURO?",
+  "nextlevel": "Siguiente",
+  "score": "Puntuación",
+  "restart": "Reiniciar",
+  "continue": "Continuar",
+  "home": "Página de inicio",
+  "sound": "Sonido",
+  "music": "Música",
+  "watchADHint": "Ver publi y obtener +1 pista",
+  "watchADTime": "Ver publi y obtener +<x> segundos",
+  "noMatches": "No quedan combinaciones",
+  "timebonus": "BONUS DE TIEMPO",
+  "hardI": "¡Atrévete con el nuevo modo difícil! En este modo:\n\n● Debes terminar el nivel en un tiempo limitado\n● Tienes un número limitado de pistas\n● Se reduce el número de repeticiones en cada nivel"
+}

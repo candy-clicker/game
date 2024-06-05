@@ -1,0 +1,23 @@
+{
+  "resetProgress": "Fortschritt zurücksetzen?",
+  "playEasy": "Einfach",
+  "playHard": "Schwer",
+  "level": "Level",
+  "yes": "Ja",
+  "no": "Nein",
+  "getHint": "Holen",
+  "back": "Zurück",
+  "shuffle": "BIST DU SICHER?",
+  "nextlevel": "Weiter",
+  "score": "Spielstand",
+  "restart": "Neustart",
+  "continue": "Weiter",
+  "home": "Home",
+  "sound": "Ton",
+  "music": "Musik",
+  "watchADHint": "Schau dir die Werbung an und hol dir +1 Hinweis",
+  "watchADTime": "Schau dir die Werbung an und hol dir +<x> Sekunden",
+  "noMatches": "Keine weiteren Matches",
+  "timebonus": "ZEIT-BONUS",
+  "hardI": "Stell dich der Herausforderung mit dem neuen schweren Modus! In diesem Modus:\n\n● Musst du das Level innerhalb eines Zeitlimits schaffen\n● Kannst du nur eine begrenzte Anzahl von Hinweisen verwenden\n● Gibt es weniger sich wiederholende Kacheln pro Level"
+}

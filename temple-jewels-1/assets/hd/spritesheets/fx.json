@@ -1,0 +1,1394 @@
+{
+    "frames": {
+        "circle": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 206,
+                "h": 206
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 206,
+                "h": 206
+            },
+            "sourceSize": {
+                "w": 206,
+                "h": 206
+            }
+        },
+        "d_1_piece": {
+            "frame": {
+                "x": 1330,
+                "y": 912,
+                "w": 10,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 16
+            }
+        },
+        "d_2_piece": {
+            "frame": {
+                "x": 1316,
+                "y": 1086,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 13
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 13
+            }
+        },
+        "d_3_piece": {
+            "frame": {
+                "x": 1065,
+                "y": 874,
+                "w": 14,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 14,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 14,
+                "h": 10
+            }
+        },
+        "d_4_piece": {
+            "frame": {
+                "x": 1042,
+                "y": 897,
+                "w": 11,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 15
+            }
+        },
+        "d_5_piece": {
+            "frame": {
+                "x": 1330,
+                "y": 958,
+                "w": 8,
+                "h": 11
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 8,
+                "h": 11
+            },
+            "sourceSize": {
+                "w": 8,
+                "h": 11
+            }
+        },
+        "d_6_piece": {
+            "frame": {
+                "x": 1063,
+                "y": 897,
+                "w": 11,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 15
+            }
+        },
+        "d_7_piece": {
+            "frame": {
+                "x": 1328,
+                "y": 1046,
+                "w": 12,
+                "h": 14
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 12,
+                "h": 14
+            },
+            "sourceSize": {
+                "w": 12,
+                "h": 14
+            }
+        },
+        "d_8_piece": {
+            "frame": {
+                "x": 1084,
+                "y": 897,
+                "w": 11,
+                "h": 14
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 14
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 14
+            }
+        },
+        "diamond_1_piece": {
+            "frame": {
+                "x": 1288,
+                "y": 1086,
+                "w": 18,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 23
+            }
+        },
+        "particle_hex": {
+            "frame": {
+                "x": 1089,
+                "y": 874,
+                "w": 11,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 11,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 11,
+                "h": 10
+            }
+        },
+        "particle_squ": {
+            "frame": {
+                "x": 1330,
+                "y": 938,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 10
+            }
+        },
+        "particle_tri": {
+            "frame": {
+                "x": 1042,
+                "y": 874,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 13
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 13
+            }
+        },
+        "sparkle_dust": {
+            "frame": {
+                "x": 1288,
+                "y": 1046,
+                "w": 30,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 30
+            }
+        },
+        "sparkle_explo_0": {
+            "frame": {
+                "x": 1204,
+                "y": 1046,
+                "w": 74,
+                "h": 66
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 66
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 66
+            }
+        },
+        "sparkle_explo_1": {
+            "frame": {
+                "x": 440,
+                "y": 1122,
+                "w": 84,
+                "h": 80
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 84,
+                "h": 80
+            },
+            "sourceSize": {
+                "w": 84,
+                "h": 80
+            }
+        },
+        "sparkle_explo_10": {
+            "frame": {
+                "x": 1204,
+                "y": 474,
+                "w": 128,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 128,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 128,
+                "h": 140
+            }
+        },
+        "sparkle_explo_11": {
+            "frame": {
+                "x": 1204,
+                "y": 320,
+                "w": 132,
+                "h": 144
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 132,
+                "h": 144
+            },
+            "sourceSize": {
+                "w": 132,
+                "h": 144
+            }
+        },
+        "sparkle_explo_12": {
+            "frame": {
+                "x": 1204,
+                "y": 162,
+                "w": 136,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 148
+            }
+        },
+        "sparkle_explo_13": {
+            "frame": {
+                "x": 1204,
+                "y": 0,
+                "w": 136,
+                "h": 152
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 152
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 152
+            }
+        },
+        "sparkle_explo_14": {
+            "frame": {
+                "x": 928,
+                "y": 948,
+                "w": 140,
+                "h": 156
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 156
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 156
+            }
+        },
+        "sparkle_explo_15": {
+            "frame": {
+                "x": 466,
+                "y": 948,
+                "w": 144,
+                "h": 160
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 160
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 160
+            }
+        },
+        "sparkle_explo_16": {
+            "frame": {
+                "x": 158,
+                "y": 948,
+                "w": 144,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 164
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 164
+            }
+        },
+        "sparkle_explo_17": {
+            "frame": {
+                "x": 1042,
+                "y": 526,
+                "w": 148,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 164
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 164
+            }
+        },
+        "sparkle_explo_18": {
+            "frame": {
+                "x": 162,
+                "y": 770,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_19": {
+            "frame": {
+                "x": 324,
+                "y": 770,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_2": {
+            "frame": {
+                "x": 338,
+                "y": 1122,
+                "w": 92,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 92,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 92,
+                "h": 88
+            }
+        },
+        "sparkle_explo_20": {
+            "frame": {
+                "x": 880,
+                "y": 546,
+                "w": 152,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 172
+            }
+        },
+        "sparkle_explo_21": {
+            "frame": {
+                "x": 498,
+                "y": 588,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_22": {
+            "frame": {
+                "x": 332,
+                "y": 588,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_23": {
+            "frame": {
+                "x": 332,
+                "y": 402,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_24": {
+            "frame": {
+                "x": 166,
+                "y": 588,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_25": {
+            "frame": {
+                "x": 0,
+                "y": 588,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_26": {
+            "frame": {
+                "x": 166,
+                "y": 402,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_27": {
+            "frame": {
+                "x": 216,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_28": {
+            "frame": {
+                "x": 0,
+                "y": 402,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_29": {
+            "frame": {
+                "x": 548,
+                "y": 186,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_3": {
+            "frame": {
+                "x": 232,
+                "y": 1122,
+                "w": 96,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 96,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 96,
+                "h": 96
+            }
+        },
+        "sparkle_explo_30": {
+            "frame": {
+                "x": 548,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_31": {
+            "frame": {
+                "x": 332,
+                "y": 216,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_32": {
+            "frame": {
+                "x": 166,
+                "y": 216,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_33": {
+            "frame": {
+                "x": 0,
+                "y": 216,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_34": {
+            "frame": {
+                "x": 382,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 176
+            }
+        },
+        "sparkle_explo_35": {
+            "frame": {
+                "x": 714,
+                "y": 364,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_36": {
+            "frame": {
+                "x": 714,
+                "y": 182,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_37": {
+            "frame": {
+                "x": 714,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_38": {
+            "frame": {
+                "x": 498,
+                "y": 402,
+                "w": 156,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 172
+            }
+        },
+        "sparkle_explo_39": {
+            "frame": {
+                "x": 880,
+                "y": 0,
+                "w": 152,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 172
+            }
+        },
+        "sparkle_explo_4": {
+            "frame": {
+                "x": 118,
+                "y": 1122,
+                "w": 104,
+                "h": 104
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 104,
+                "h": 104
+            },
+            "sourceSize": {
+                "w": 104,
+                "h": 104
+            }
+        },
+        "sparkle_explo_40": {
+            "frame": {
+                "x": 664,
+                "y": 588,
+                "w": 152,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 172
+            }
+        },
+        "sparkle_explo_41": {
+            "frame": {
+                "x": 880,
+                "y": 182,
+                "w": 152,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 172
+            }
+        },
+        "sparkle_explo_42": {
+            "frame": {
+                "x": 880,
+                "y": 364,
+                "w": 152,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 172
+            }
+        },
+        "sparkle_explo_43": {
+            "frame": {
+                "x": 0,
+                "y": 770,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_44": {
+            "frame": {
+                "x": 486,
+                "y": 770,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_45": {
+            "frame": {
+                "x": 648,
+                "y": 770,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_46": {
+            "frame": {
+                "x": 810,
+                "y": 770,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_47": {
+            "frame": {
+                "x": 1042,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 168
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 168
+            }
+        },
+        "sparkle_explo_48": {
+            "frame": {
+                "x": 1042,
+                "y": 178,
+                "w": 152,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 164
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 164
+            }
+        },
+        "sparkle_explo_49": {
+            "frame": {
+                "x": 0,
+                "y": 948,
+                "w": 148,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 164
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 164
+            }
+        },
+        "sparkle_explo_5": {
+            "frame": {
+                "x": 0,
+                "y": 1122,
+                "w": 108,
+                "h": 112
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 108,
+                "h": 112
+            },
+            "sourceSize": {
+                "w": 108,
+                "h": 112
+            }
+        },
+        "sparkle_explo_50": {
+            "frame": {
+                "x": 1042,
+                "y": 700,
+                "w": 148,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 164
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 164
+            }
+        },
+        "sparkle_explo_51": {
+            "frame": {
+                "x": 1042,
+                "y": 352,
+                "w": 148,
+                "h": 164
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 164
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 164
+            }
+        },
+        "sparkle_explo_52": {
+            "frame": {
+                "x": 774,
+                "y": 948,
+                "w": 144,
+                "h": 160
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 160
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 160
+            }
+        },
+        "sparkle_explo_53": {
+            "frame": {
+                "x": 312,
+                "y": 948,
+                "w": 144,
+                "h": 160
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 160
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 160
+            }
+        },
+        "sparkle_explo_54": {
+            "frame": {
+                "x": 620,
+                "y": 948,
+                "w": 144,
+                "h": 160
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 160
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 160
+            }
+        },
+        "sparkle_explo_6": {
+            "frame": {
+                "x": 1078,
+                "y": 948,
+                "w": 112,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 112,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 112,
+                "h": 120
+            }
+        },
+        "sparkle_explo_7": {
+            "frame": {
+                "x": 1204,
+                "y": 912,
+                "w": 116,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 116,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 116,
+                "h": 124
+            }
+        },
+        "sparkle_explo_8": {
+            "frame": {
+                "x": 1204,
+                "y": 770,
+                "w": 120,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 132
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 132
+            }
+        },
+        "sparkle_explo_9": {
+            "frame": {
+                "x": 1204,
+                "y": 624,
+                "w": 124,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 124,
+                "h": 136
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "fx.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1340,
+            "h": 1234
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,41 @@
+﻿{
+
+	"boosterFallingSpeed" : 5,
+	"chanceOfGettingBooster" : 0.1,
+	"rocketNarrowDifference" : -35,
+	"rocketWideDifference" : 45,
+	"laserShoots" : 4,
+	"laserTimer" : 40,
+	"priceOfLives" : 200,
+	"doubleCoinsTimer" : 10,
+	"dropChanceLevels" : [
+		[1,0],
+		[1.5,100],
+		[2,150],
+		[2.5,200],
+		[3,250],
+		[4,400]
+	],
+
+	"defaultMoney": 250,
+	"costOfLife": 100,
+	"costOfLongPaddle": 100,
+	"costOfSplitBall": 50,
+	"costOfBombBall": 100,
+	"costOfSlowdown": 50,
+	"coinsForWatchingAd": 100,
+	"coinsForOneStar": 50,
+	"coinsFromBrick": 1,
+	"chanceForCoinsFromBrick": 0.25,
+	"defaultLife": 3,
+	"outOfLivesCountdown": 5,
+
+	"ballInitSpeed": 12,
+	"ballMaxSpeed": 18,
+	"ballSpeedIncreaseAfterEachBounce": 0.02,
+
+	"defaultLifeWhenNotIncentivise": 2,
+	"chanceForCoinsFromBrickWhenNotIncentivise": 0.2,
+	"arrowsKeyControllSpeed": 20
+	
+}

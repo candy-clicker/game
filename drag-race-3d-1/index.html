@@ -1,0 +1,53 @@
+<!doctype html><html><head><title>Drag Race 3D</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9"><meta name="format-detection" content="telephone=no"><meta name="HandheldFriendly" content="true"/><meta name="robots" content="noindex,nofollow"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black"/><meta name="apple-mobile-web-app-title" content="yzigames"><meta name="viewport" content="user-scalable=0,initial-scale=1,minimum-scale=1,maximum-scale=1,width=device-width,minimal-ui=1"><meta name="game-slug" content="drag-race-3D"/><link rel="stylesheet" href="css/stylesheet.css" charset="utf-8"/><script src="azerion-libs.js?v=1"></script><script id="sg-sdk" src="js/azUpdatedSdk.js"></script><script src="js/game.min.js"></script><script src="js/Main.js"></script><link rel="icon" type="image/GIF" href="icon.ico"><script defer="defer" src="version.js"></script></head><body scroll="no" onload="initGame()"><div id="game" style="width: 100%; height: 100%;"></div><div style="font-family: Ubuntu; opacity: 0;">.</div><div id="loader">Loading ...</div><script>(function(global, undefined) {
+        /**     * Low-budget Float32Array knock-off, suitable for use with P2.js     */
+        if (typeof global.Float32Array !== "function") {
+            var CheapArray = function(type) {
+                var proto = new Array();
+                global[type] = function(arg) {
+                    if (typeof(arg) === "number") {
+                        Array.call(this, arg);
+                        this.length = arg;
+                        for (var i = 0; i < this.length; i++) {
+                            this[i] = 0;
+                        };
+                    } else {
+                        Array.call(this, arg.length);
+                        this.length = arg.length;
+                        for (var i = 0; i < this.length; i++) {
+                            this[i] = arg[i];
+                        };
+                    }
+                }
+                global[type].prototype = proto;
+                global[type].constructor = global[type];
+            }
+            CheapArray('Float32Array');
+            CheapArray('Int16Array');
+        } /**     * Also fix for the absent console in IE9     */
+        if (!window.console) {
+            window.console = {};
+            window.console.log = window.console.assert = function() {};
+        }
+    })(this);</script><script>function initGame() {
+            sgSdk.initialize(['basic', 'levelGame'], {
+                build: "1.0.0",
+                supportedLanguages: ['en', 'de', 'es', 'fr', 'it', 'pt', 'ru', 'tr', 'nl', 'pl'],
+                id: "drag-race-3D",
+                freezeGame: function() {},
+                unfreezeGame: function() {},
+                runGame: function() {
+                    runGameHelper();
+                    console.log("Game Start!");
+                },
+                goToLevel: function(level) {},
+            }, function(err, settings, sdkHandler) {
+                if (err) {
+                    console.log(err);
+                } else {
+                    console.log('init callback triggered');
+                    window.sdkHandler = sdkHandler;
+                    window.sgSettings = settings;
+                    initialize();
+                }
+            });
+        }</script></body></html>

@@ -1,0 +1,22 @@
+{
+	"modalTexts": {
+		"apiError": {
+			"en": {
+				"body": ["An error has occurred.", "Please try again in a place with a good communication environment."],
+				"button": "OK"
+			}
+		},
+		"rewardAdApiError": {
+			"en": {
+				"body": ["No ads are currently available or ads have been skipped."],
+				"button": "OK"
+			}
+		},
+		"buildError": {
+			"en": {
+				"body": ["Failed to start the game.", "Please try reloading the page or restarting the app."],
+				"button": "OK"
+			}
+		}
+	}
+}

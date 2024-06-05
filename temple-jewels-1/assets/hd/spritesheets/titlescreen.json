@@ -1,0 +1,254 @@
+{
+    "frames": {
+        "dec_bottom": {
+            "frame": {
+                "x": 542,
+                "y": 420,
+                "w": 102,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 102,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 102,
+                "h": 68
+            }
+        },
+        "dec_center": {
+            "frame": {
+                "x": 0,
+                "y": 624,
+                "w": 298,
+                "h": 38
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 298,
+                "h": 38
+            },
+            "sourceSize": {
+                "w": 298,
+                "h": 38
+            }
+        },
+        "dec_left": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 614
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 614
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 614
+            }
+        },
+        "fire_anim_0": {
+            "frame": {
+                "x": 162,
+                "y": 210,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_1": {
+            "frame": {
+                "x": 352,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_2": {
+            "frame": {
+                "x": 352,
+                "y": 210,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_3": {
+            "frame": {
+                "x": 162,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_4": {
+            "frame": {
+                "x": 542,
+                "y": 210,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_5": {
+            "frame": {
+                "x": 732,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_6": {
+            "frame": {
+                "x": 732,
+                "y": 210,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "fire_anim_7": {
+            "frame": {
+                "x": 542,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 200
+            }
+        },
+        "torch": {
+            "frame": {
+                "x": 732,
+                "y": 420,
+                "w": 121,
+                "h": 161
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 121,
+                "h": 161
+            },
+            "sourceSize": {
+                "w": 121,
+                "h": 161
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "titlescreen.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 912,
+            "h": 662
+        },
+        "scale": 1
+    }
+}

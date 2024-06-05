@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Cousin Vinnie",
+        "skill": 1
+    },
+    {
+        "id": 2,
+        "name": "Valentina Tonnara",
+        "skill": 1,
+        "botStarts": true
+    },
+    {
+        "id": 3,
+        "name": "Gigi Vermicelli",
+        "skill": 2
+    },
+    {
+        "id": 4,
+        "name": "Jackie Infantino",
+        "skill": 5,
+        "botStarts": true
+    },
+    {
+        "id": 5,
+        "name": "Saul Greenspan",
+        "skill": 6
+    },
+    {
+        "id": 6,
+        "name": "Toto Tonnara",
+        "skill": 7,
+        "botStarts": true
+    },
+    {
+        "id": 7,
+        "name": "Elsa Fulcanelli",
+        "skill": 9
+    },
+    {
+        "id": 8,
+        "name": "Don Tomassino Fulcanelli",
+        "skill": 9,
+        "botStarts": true
+    }
+]
+    

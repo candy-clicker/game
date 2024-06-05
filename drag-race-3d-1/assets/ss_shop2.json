@@ -1,0 +1,120 @@
+{"frames": {
+
+"bg_level.jpg":
+{
+	"frame": {"x":2,"y":2,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_01_a.jpg":
+{
+	"frame": {"x":804,"y":2,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_02_a.jpg":
+{
+	"frame": {"x":1281,"y":2,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_03_a.jpg":
+{
+	"frame": {"x":2,"y":484,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_04_a.jpg":
+{
+	"frame": {"x":479,"y":484,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_05_a.jpg":
+{
+	"frame": {"x":956,"y":484,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_06_a.jpg":
+{
+	"frame": {"x":2,"y":780,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_07_a.jpg":
+{
+	"frame": {"x":479,"y":780,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_08_a.jpg":
+{
+	"frame": {"x":956,"y":780,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_09_a.jpg":
+{
+	"frame": {"x":2,"y":1076,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_10_a.jpg":
+{
+	"frame": {"x":479,"y":1076,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car_11_a.jpg":
+{
+	"frame": {"x":956,"y":1076,"w":475,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":294},
+	"sourceSize": {"w":475,"h":294},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ss_shop2.png",
+	"format": "RGBA8888",
+	"size": {"w":1758,"h":1372},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ad48b078573a3aad03d9193b23d17ac6:4e680968a1eb28f91da2856a04ffcaf0:e438258d8dcbf90f5ac6489c06653c7e$"
+}
+}

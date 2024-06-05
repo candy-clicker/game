@@ -1,0 +1,9 @@
+{"file":"uiRes.png","frames":{
+"score":{"x":1,"y":1,"w":398,"h":211,"offX":0,"offY":0,"sourceW":398,"sourceH":211},
+"btn_help":{"x":355,"y":214,"w":80,"h":85,"offX":0,"offY":0,"sourceW":80,"sourceH":85},
+"btn_more":{"x":260,"y":275,"w":80,"h":85,"offX":0,"offY":0,"sourceW":80,"sourceH":85},
+"btn_play":{"x":178,"y":214,"w":175,"h":59,"offX":0,"offY":0,"sourceW":175,"sourceH":59},
+"btn_sound_off":{"x":401,"y":1,"w":80,"h":85,"offX":0,"offY":0,"sourceW":80,"sourceH":85},
+"btn_sound_on":{"x":401,"y":88,"w":80,"h":85,"offX":0,"offY":0,"sourceW":80,"sourceH":85},
+"btn_star":{"x":178,"y":275,"w":80,"h":85,"offX":0,"offY":0,"sourceW":80,"sourceH":85},
+"btn_start":{"x":1,"y":214,"w":175,"h":96,"offX":0,"offY":0,"sourceW":175,"sourceH":96}}}

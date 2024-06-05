@@ -1,0 +1,93 @@
+{
+	"amountOfBoosterOnStart": 5,
+	"amountOfBoosterAfterLevel": 1,
+	"hintsForAD": 3,
+  "timeForDirtyTile": 1,
+  "shoutouts": {
+    "well_done": [4,6],
+    "amazing": [7,9],
+    "fantastic": [10,12],
+    "perfect": [13,9999999]
+  },
+
+	"tutorials": {
+    "0": {
+      "steps": [
+        {
+          "txt": 26,
+          "type": "match",
+          "finishDesignEvent": "Ingame:Tutorial01Match1st",
+          "tutorialOverwrites": {
+          	"freezeTime": true
+          },
+          "handCells": {
+          	"cells":	[1,0,1,1],
+          	"delay": 2000
+          }
+        },
+        {
+          "txt": 27,
+          "type": "match",
+          "finishDesignEvent": "Ingame:Tutorial02Match2nd",
+          "handCells": {
+          	"cells":	[3,1,3,2],
+          	"delay": 3000
+          }
+        },
+        {
+          "txt": 28,
+          "type": "match",
+          "finishDesignEvent": "Ingame:Tutorial03Match3rd",
+          "handCells": {
+          	"cells":	[2,2,2,3],
+          	"delay": 3000
+          }
+        }
+
+      ]
+    },
+    "1": {
+      "prestepTutorialOverwrites": {
+        "lockHint": true
+      },
+      "steps": [
+        {
+          "txt": 29,
+          "type": "wait",
+          "waitMs": 5500,
+          "tutorialOverwrites": {
+            "inputMgrOnClickLock": true,
+            "freezeTime": true,
+            "lockHint": true
+          }
+        },
+        {
+          "txt": 30,
+          "HINTFLOW": true,
+          "type": "hint",
+          "resetTutorialOverwritesOnFinish": true,
+          "startDesignEvent": "Ingame:Tutorial04HintAppearedInTutLvl2",
+          "finishDesignEvent": "Ingame:Tutorial05HintpressedInTutLvl2",
+          "tutorialOverwrites":{
+            "lockHint": false
+          }
+        },
+        {
+          "txt": [31,32],
+          "type": "wait",
+          "waitMs": 8000
+        }
+      ]
+    },
+    "2":{
+      "steps": [
+        {
+          "txt": 33,
+          "type": "wait",
+          "waitMs": 8000,
+          "startDesignEvent": "Ingame:Tutorial06MessageSeenInTutlvl3"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+		<script src="lib/howler.core.2.2.3.min.js?v=2.2.3"></script>
+		<script src="lib/pixi-legacy.5.3.9.min.js?v=5.3.9"></script>
+		<script src="lib/Pixim.min.js?v=1.14.0"></script>
+	</head>
+	<body style="margin:0px; overflow: hidden; background-color:#000000;">
+		<script src="lib/SCG-gd-pixim.min.js?v=1.10.3"></script>	
+		<script>
+			SCG.init({
+				basepath: './',
+				version : '202208191000' ,
+				pixiOptions: {
+					resolution: 2
+				}
+			}, {
+				gameId: "709580f65a0c442b99875fee908b6983",
+				sdk: "/main.min.js",
+				contentKey: "jumpon2",
+				usePrerollAd: true,
+				introOptions: {
+					icon: "icon.png",
+				}
+			}, {
+				languages: [ "en" ],
+				languageOptions: "language.json"
+			});
+		</script>
+		<script src="bundle.js?v=202209221400"></script>
+	</body>
+</html>

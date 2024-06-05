@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"language_button_1_2x.png":
+{
+	"frame": {"x":795,"y":160,"w":147,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":152},
+	"sourceSize": {"w":147,"h":152}
+},
+"language_button_2_2x.png":
+{
+	"frame": {"x":795,"y":4,"w":147,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":152},
+	"sourceSize": {"w":147,"h":152}
+},
+"language_button_3_2x.png":
+{
+	"frame": {"x":4,"y":1029,"w":612,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":612,"h":131},
+	"sourceSize": {"w":612,"h":131}
+},
+"language_button_4_2x.png":
+{
+	"frame": {"x":620,"y":1029,"w":612,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":612,"h":131},
+	"sourceSize": {"w":612,"h":131}
+},
+"language_pop_2x.png":
+{
+	"frame": {"x":4,"y":4,"w":787,"h":1021},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":787,"h":1021},
+	"sourceSize": {"w":787,"h":1021}
+},
+"language_title_2x.png":
+{
+	"frame": {"x":795,"y":316,"w":274,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":58},
+	"sourceSize": {"w":274,"h":58}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "languageui.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

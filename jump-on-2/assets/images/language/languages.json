@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"lang_en":
+{
+	"frame": {"x":4,"y":4,"w":175,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":68},
+	"sourceSize": {"w":175,"h":68}
+},
+"lang_ja":
+{
+	"frame": {"x":4,"y":76,"w":169,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":62},
+	"sourceSize": {"w":169,"h":62}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "languages.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

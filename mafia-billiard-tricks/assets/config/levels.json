@@ -1,0 +1,2548 @@
+[
+	{
+		"id": 1,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -21354.774,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 32000,
+				"y": -12000
+			}
+		]
+	},
+	{
+		"id": 2,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -21000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -4000,
+				"y": 12000
+			}
+		]
+	},
+	{
+		"id": 3,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"turnsLeftStarDivider": 1,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -20000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 4,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 6,
+		"turnsLeftStarDivider": 2,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 8000,
+				"y": -12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 32000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -32000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -32000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 32000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 5,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 6,
+		"turnsLeftStarDivider": 3,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 24000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": -12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 6,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 27,
+		"turnsLeftStarDivider": 18,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 6236.827,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -5850.047,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -20000,
+				"y": 817.221
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 28000,
+				"y": -15037.764
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -28000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 7,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 2,
+		"turnsLeftStarDivider": 1,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -2572.2488,
+				"y": -19000.95602
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 39073.68421,
+				"y": 18444.55067
+			}
+		]
+	},
+	{
+		"id": 8,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -16000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -16000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -34811.825,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -20000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 9,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 1,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 24375.11962,
+				"y": 5717.97323
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 22047.84689,
+				"y": -2480.87954
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 26212.44,
+				"y": -2480.88
+			}
+		]
+	},
+	{
+		"id": 10,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 3,
+		"turnsLeftStarDivider": 1,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 36000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 16000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -156.57492,
+				"y": 13509.78793
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 34799.5996,
+				"y": 13961.53846
+			}
+		]
+	},
+	{
+		"id": 11,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 20,
+		"turnsLeftStarDivider": 11,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -16000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 0
+			}
+		]
+	},
+	{
+		"id": 12,
+		"activatesSpinMechanism": true,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -244,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -244,
+				"y": -18000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -244,
+				"y": 18000
+			}
+		]
+	},
+	{
+		"id": 13,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -8000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -24000,
+				"y": -10294.454
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": 9542.414
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 14,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 3,
+		"turnsLeftStarDivider": 1,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -244.44019,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -244.97608,
+				"y": -12500
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -244.97608,
+				"y": 12500
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 39846.48188,
+				"y": -19571.67235
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 37335.60768,
+				"y": -17496.58703
+			}
+		]
+	},
+	{
+		"id": 15,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 8,
+		"turnsLeftStarDivider": 4,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 39628.14499,
+				"y": -240.61433
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 40000,
+				"y": -12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 40000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -39409.8081,
+				"y": -18588.7372
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -37226.43923,
+				"y": -16186.00683
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -32641.36461,
+				"y": 18762.79863
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 18762.799
+			}
+		]
+	},
+	{
+		"id": 16,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 21,
+		"turnsLeftStarDivider": 12,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": -12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": -12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": 11108.483
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -8000,
+				"y": -4000
+			}
+		]
+	},
+	{
+		"id": 17,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 30,
+		"lossOnColourSunk": [
+			8
+		],
+		"winOnColourSunk": [
+			9
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -21000,
+				"y": 0
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -34914.16122,
+				"y": -17322.29965
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 9035.29412,
+				"y": -7175.95819
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 39152.94118,
+				"y": -19106.27178
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 30117.64706,
+				"y": 13562.71777
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 15505.01089,
+				"y": 1632.40418
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 32794.77124,
+				"y": 10329.26829
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -669.28105,
+				"y": 17242.16028
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 8812.20044,
+				"y": -16541.81185
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 38483.66013,
+				"y": 17576.65505
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -1003.92157,
+				"y": -19329.26829
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 39487.5817,
+				"y": -11858.88502
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -6469.71678,
+				"y": -2716.02787
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -39933.76906,
+				"y": 18580.13937
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -37702.83224,
+				"y": 4196.86411
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 33798.69281,
+				"y": 16350.17422
+			}
+		]
+	},
+	{
+		"id": 18,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 95,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -16000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -16000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -8000
+			}
+		]
+	},
+	{
+		"id": 19,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 30,
+		"lossOnColourSunk": [
+			8
+		],
+		"winOnColourSunk": [
+			9
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -21000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 37157.15716,
+				"y": -16602.5641
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 37567.16717,
+				"y": -13525.64103
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 34594.59459,
+				"y": -14653.84615
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 39309.70971,
+				"y": -18756.41026
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 34082.08208,
+				"y": -17833.33333
+			}
+		]
+	},
+	{
+		"id": 20,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 30,
+		"lossOnColourSunk": [
+			8
+		],
+		"winOnColourSunk": [
+			9
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -32237.03704,
+				"y": 3089.74359
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 22396.7968,
+				"y": 18679.48718
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -40129.72973,
+				"y": 18782.05128
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 40334.73473,
+				"y": -19782.05128
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -51.25125,
+				"y": -20294.87179
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 40232.23223,
+				"y": 19192.30769
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -153.75375,
+				"y": 19705.12821
+			}
+		]
+	},
+	{
+		"id": 21,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 30,
+		"turnsLeftStarDivider": 20,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -36000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 4000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 4000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 4000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": -8832.79
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": 8000
+			}
+		]
+	},
+	{
+		"id": 22,
+		"timed": true,
+		"timeTurnsValue": 40,
+		"winOnColourSunk": [
+			9
+		],
+		"lossOnColourTouch": [
+			11
+		],
+		"lossOnColourSunk": [
+			11
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 21528.54031,
+				"y": -17656.79443
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -446.18736,
+				"y": 71.42857
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 34356.42702,
+				"y": -4165.50523
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 16732.02614,
+				"y": -18883.27526
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 38706.75381,
+				"y": -3496.51568
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 3792.59259,
+				"y": -1489.54704
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 18182.13508,
+				"y": -15426.82927
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 30229.1939,
+				"y": -5726.48084
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 21640.08715,
+				"y": -13308.36237
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 3681.04575,
+				"y": 1966.89895
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -111.54684,
+				"y": -19106.27178
+			}
+		]
+	},
+	{
+		"id": 23,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 16000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -8000
+			}
+		]
+	},
+	{
+		"id": 24,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 15,
+		"winOnColourSunk": [
+			13
+		],
+		"lossOnColourTouch": [
+			11,
+			13
+		],
+		"lossOnColourSunk": [
+			11
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 446.18736,
+				"y": -14980.83624
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": 1227.01525,
+				"y": 17799.65157
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -111.54684,
+				"y": 14008.7108
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 446.18736,
+				"y": -10409.40767
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -6692.81046,
+				"y": 18468.64111
+			},
+			{
+				"id": 3,
+				"isnonEssentialCueBall": true,
+				"active": true,
+				"x": 5688.88889,
+				"y": 14120.20906
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 5800.43573,
+				"y": -12750.87108
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -35583.44227,
+				"y": -16876.30662
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 33798.69281,
+				"y": -2381.5331
+			}
+		]
+	},
+	{
+		"id": 25,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 40,
+		"winOnColourSunk": [
+			9
+		],
+		"lossOnColourTouch": [
+			11
+		],
+		"lossOnColourSunk": [
+		11
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -39924.72472,
+				"y": 18782.05128
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 39924.72472,
+				"y": -19474.35897
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 36132.13213,
+				"y": -18961.53846
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 39412.21221,
+				"y": -16089.74359
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -153.75375,
+				"y": 19089.74359
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -40744.74474,
+				"y": -19371.79487
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -37259.65966,
+				"y": 16115.38462
+			}
+		]
+	},
+	{
+		"id": 26,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 27,
+		"turnsLeftStarDivider": 17,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -8000,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -16000,
+				"y": -12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -24000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16850.734
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -8000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -24000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -16000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8000,
+				"y": 0
+			}
+		]
+	},
+	{
+		"id": 27,
+		"timed": false,
+		"turnBased": true,
+		"invisibleBalls": [
+			8
+		],
+		"lossOnColourSunk": [
+			8
+		],
+		"winOnColourSunk": [
+			9
+		],
+		"timeTurnsValue": 11,
+		"turnsLeftStarDivider": 2,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -21000,
+				"y": 0
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 20000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 16000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 16000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 16000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 24000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 24000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 24000,
+				"y": -4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 20000,
+				"y": -4000
+			}
+		]
+	},
+	{
+		"id": 28,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -7880.93782,
+				"y": -15723.49103
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 365.34149,
+				"y": -16558.72757
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -3601.22324,
+				"y": -16245.51387
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8298.47095,
+				"y": -17393.96411
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 4331.90622,
+				"y": -16976.34584
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -8000
+			}
+		]
+	},
+	{
+		"id": 29,
+		"timed": true,
+		"turnBased": false,
+		"lossOnColourSunk": [
+			8
+		],
+		"winOnColourSunk": [
+			9,
+			10
+		],
+		"timeTurnsValue": 110,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -21000,
+				"y": 0
+			},
+			{
+				"id": 9,
+					"isGhostBall": true,
+				"active": true,
+				"x": 2818.81882,
+				"y": -16089.74359
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 15426.62663,
+				"y": 6884.61538
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -22191.79179,
+				"y": 13346.15385
+			},
+			{
+				"id": 9,
+				"active": true,
+				
+				"x": 22601.8018,
+				"y": 15192.30769
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 18194.19419,
+				"y": -14243.58974
+			},
+			{
+				"id": 8,
+				"active": true,
+				"isGhostBall": true,
+				"x": 358.75876,
+				"y": -19269.23077
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -39002.2022,
+				"y": 16935.89744
+			},
+			{
+				"id": 8,
+				"active": true,
+				"isGhostBall": true,
+				"x": -39104.7047,
+				"y": -18551.28205
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 25061.86186,
+				"y": -2961.53846
+			},
+			{
+				"id": 8,
+				"active": true,
+				"isGhostBall": true,
+				"x": -1076.27628,
+				"y": 8525.64103
+			}
+		]
+	},
+	{
+		"id": 30,
+		"timed": false,
+		"turnBased": true,
+		"invisibleBalls": [
+			8
+		],
+		"lossOnColourSunk": [
+			8
+		],
+		"winOnColourSunk": [
+			9
+		],
+		"timeTurnsValue": 15,
+		"turnsLeftStarDivider": 12,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -24000,
+				"y": -12000
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -24000,
+				"y": -16000
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -21064.26426,
+				"y": -14961.53846
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -27214.41441,
+				"y": -15679.48718
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -27214.41441,
+				"y": -12602.5641
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -20551.75175,
+				"y": -11269.23077
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -27521.92192,
+				"y": -8910.25641
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -23934.33433,
+				"y": -9012.82051
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -20961.76176,
+				"y": -7884.61538
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 39412.21221,
+				"y": -19166.66667
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -256.25626,
+				"y": -19166.66667
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -39822.22222,
+				"y": 18679.48718
+			}
+		]
+	},
+	{
+		"id": 31,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 24,
+		"turnsLeftStarDivider": 14,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 16000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -8000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 24000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -24000,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 32,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"winOnColourSunk": [
+			13
+		],
+		"lossOnColourTouch": [
+			13
+		],
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": -153.75375,
+				"y": 14679.48718
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -256.25626,
+				"y": 19089.74359
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 3126.32633,
+				"y": 17756.41026
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 35312.11211,
+				"y": -18346.15385
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -39514.71471,
+				"y": 18679.48718
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -3536.33634,
+				"y": 17448.71795
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 40027.22723,
+				"y": 19089.74359
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -40129.72973,
+				"y": -18961.53846
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": 34082.08208,
+				"y": -14448.71795
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 38182.18218,
+				"y": -15269.23077
+			}
+		]
+	},
+	{
+		"id": 33,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 120,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -12000,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 12000,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 5793.272,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 0
+			}
+		]
+	},
+	{
+		"id": 34,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 10,
+		"winOnColourSunk": [
+			13
+		],
+		"lossOnColourTouch": [
+			13
+		],
+		"lossOnColourSunk": [
+			8
+		],
+		"turnsLeftStarDivider": 7,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 10404.004,
+				"y": 13038.46154
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": -33057.05706,
+				"y": -13320.51282
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 1076.27628,
+				"y": 14987.17949
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 34492.09209,
+				"y": 14474.35897
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": 35312.11211,
+				"y": -18346.15385
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -39514.71471,
+				"y": 18679.48718
+			},
+			{
+				"id": 8,
+				"active": true,
+				"x": -7841.44144,
+				"y": -8500
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": 30802.002,
+				"y": -13730.76923
+			}
+		]
+	},
+	{
+		"id": 35,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 9,
+		"invisibleBalls": [
+			3
+		],"winOnColourSunk": [
+			13
+		],
+		"lossOnColourTouch": [
+			13
+		],
+		"turnsLeftStarDivider": 3,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": -153.75375,
+				"y": 14679.48718
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -256.25626,
+				"y": 19089.74359
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 3126.32633,
+				"y": 17756.41026
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 35312.11211,
+				"y": -18346.15385
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -39514.71471,
+				"y": 18679.48718
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -3536.33634,
+				"y": 17448.71795
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 40027.22723,
+				"y": 19089.74359
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": -40129.72973,
+				"y": -18961.53846
+			},
+			{
+				"id": 13,
+				"active": true,
+				"x": 34082.08208,
+				"y": -14448.71795
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 38182.18218,
+				"y": -15269.23077
+			}
+		]
+	},
+	{
+		"id": 36,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 21,
+		"turnsLeftStarDivider": 11,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -16000,
+				"y": -1002.447
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -8000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 12000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8000,
+				"y": 4000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 28000,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 16000,
+				"y": -1420.065
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -24000,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -36000,
+				"y": -16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": 16000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 36000,
+				"y": -16000
+			}
+		]
+	},
+	{
+		"id": 37,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 30,
+		"turnsLeftStarDivider": 0,
+		"winOnColourSunk": [
+			9
+		],
+		"lossOnColourTouch": [
+			11
+		],
+		"lossOnColourSunk": [
+			11
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -3986.24874,
+				"y": 56.6343
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 8000,
+				"y": 0
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 0,
+				"y": -4000
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 0,
+				"y": 4000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 4000,
+				"y": -8000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 4000,
+				"y": 0
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -40121.33468,
+				"y": -19516.18123
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 39293.02326,
+				"y": 18593.85113
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -155.30839,
+				"y": -19619.7411
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -40017.79575,
+				"y": 18800.97087
+			}
+		]
+	},
+	{
+		"id": 38,
+		"timed": true,
+		"turnBased": false,
+		"timeTurnsValue": 90,
+		"turnsLeftStarDivider": 0,
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": 0,
+				"y": -2464.111
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 0,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -2870.54,
+				"y": -6535.889
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 4000,
+				"y": 981.24
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 2974.924,
+				"y": -6535.889
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -4000,
+				"y": 1085.644
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 4000,
+				"y": -2881.729
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": -4000,
+				"y": -2986.134
+			}
+		]
+	},
+	{
+		"id": 39,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 4,
+		"turnsLeftStarDivider": 2,
+		"winOnColourSunk": [
+			9
+		],
+		"lossOnColourTouch": [
+			11
+		],
+		"lossOnColourSunk": [
+			11
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -4000,
+				"y": -8000
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 37429.32255,
+				"y": -17962.78317
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 37739.939,
+				"y": 17351.133
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 38464.712,
+				"y": 0
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 28000,
+				"y": -4000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 32000,
+				"y": -8000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 36000,
+				"y": 12000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 32000,
+				"y": 8000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 28000,
+				"y": 4000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 0,
+				"y": -4000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": -8000,
+				"y": -8000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": -4000,
+				"y": -12000
+			},
+			{
+				"id": 11,
+				"isGhostBall": true,
+				"active": true,
+				"x": 36000,
+				"y": -12000
+			}
+		]
+	},
+	{
+		"id": 40,
+		"timed": false,
+		"turnBased": true,
+		"timeTurnsValue": 3,
+		"turnsLeftStarDivider": 2,
+		"invisibleBalls": [
+			3
+		],
+		"winOnColourSunk": [
+			9
+		],
+		"lossOnColourTouch": [
+			11
+		],
+		"lossOnColourSunk": [
+			11
+		],
+		"ballData": [
+			{
+				"id": 0,
+				"active": true,
+				"x": -3986.24874,
+				"y": 56.6343
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 0,
+				"y": 0
+			},
+			{
+				"id": 9,
+				"active": true,
+				"x": 31320.52578,
+				"y": 19008.09061
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": 27282.50758,
+				"y": 13208.73786
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"x": 20656.01618,
+				"y": 7305.82524
+			},
+			{
+				"id": 11,
+				"active": true,
+				"x": -17239.23155,
+				"y": 3877.6699
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"isGhostBall": true,
+				"x": -362.38625,
+				"y": -19516.18123
+			},
+			{
+				"id": 11,
+				"active": true,
+				"isGhostBall": true,
+				"x": -39707.17897,
+				"y": -19516.18123
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"isGhostBall": true,
+				"x": 39189.48433,
+				"y": -19101.94175
+			},
+			{
+				"id": 11,
+				"active": true,
+				"isGhostBall": true,
+				"x": -51.76946,
+				"y": 19008.09061
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"isGhostBall": true,
+				"x": -40742.56825,
+				"y": 19111.65049
+			},
+			{
+				"id": 11,
+				"active": true,
+				"isGhostBall": true,
+				"x": -24486.95652,
+				"y": -12784.78964
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"isGhostBall": true,
+				"x": 21070.17189,
+				"y": -6985.43689
+			},
+			{
+				"id": 11,
+				"active": true,
+				"isGhostBall": true,
+				"x": -12683.51871,
+				"y": 13312.29773
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"isGhostBall": true,
+				"x": 13201.21335,
+				"y": -15270.22654
+			},
+			{
+				"id": 11,
+				"active": true,
+				"isGhostBall": true,
+				"x": -5785.92751,
+				"y": 4127.98635
+			},
+			{
+				"id": 3,
+				"active": true,
+				"isnonEssentialCueBall": true,
+				"isGhostBall": true,
+				"x": -1310.02132,
+				"y": 4237.20137
+			}
+		]
+	}
+]

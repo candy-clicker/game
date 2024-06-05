@@ -1,0 +1,125 @@
+{
+    "patterns": [
+        {
+            "difficulty": 500, 
+            "coldown": 1500,
+            "elements": [
+                {"type": "Pillar", "x": 320, "y": -16},
+                {"type": "Saw", "x": 490, "y": 0},
+                {"type": "Saw", "x": 320, "y": 0},
+                {"type": "Atom", "x": 220, "y": -100},
+                {"type": "Atom", "x": 280, "y": -150},
+                {"type": "Atom", "x": 350, "y": -170},
+                {"type": "Atom", "x": 430, "y": -180},
+                {"type": "Atom", "x": 520, "y": -185},
+                {"type": "Pillar", "x": 320, "y": -396},
+                {"type": "Saw", "x": 150, "y": -380},
+                {"type": "Saw", "x": 320, "y": -380},
+                {"type": "Atom", "x": 420, "y": -480},
+                {"type": "Atom", "x": 360, "y": -530},
+                {"type": "Atom", "x": 290, "y": -550},
+                {"type": "Atom", "x": 210, "y": -560},
+                {"type": "Atom", "x": 120, "y": -565},
+                {"type": "Pillar", "x": 320, "y": -776},
+                {"type": "Saw", "x": 490, "y": -760},
+                {"type": "Saw", "x": 320, "y": -760},
+                {"type": "Atom", "x": 220, "y": -860},
+                {"type": "Atom", "x": 280, "y": -910},
+                {"type": "Atom", "x": 350, "y": -930},
+                {"type": "Atom", "x": 430, "y": -940},
+                {"type": "Atom", "x": 520, "y": -945}
+            ]
+        },
+        {
+            "difficulty": 300,
+            "coldown": 1500,
+            "elements": [
+                {"type": "Pillar", "x": 320, "y": -16},
+                {"type": "Saw", "x": 490, "y": 0},
+                {"type": "Saw", "x": 320, "y": 0},
+                {"type": "Pillar", "x": 320, "y": -396},
+                {"type": "Saw", "x": 320, "y": -380},
+                {"type": "Pillar", "x": 320, "y": -776},
+                {"type": "Saw", "x": 490, "y": -760},
+                {"type": "Saw", "x": 320, "y": -760},
+                {"type": "Atom", "x": 320, "y": -190},
+                {"type": "Atom", "x": 390, "y": -220},
+                {"type": "Atom", "x": 445, "y": -250},
+                {"type": "Atom", "x": 480, "y": -300},
+                {"type": "Atom", "x": 510, "y": -380},
+                {"type": "Atom", "x": 480, "y": -460},
+                {"type": "Atom", "x": 445, "y": -510},
+                {"type": "Atom", "x": 390, "y": -540},
+                {"type": "Atom", "x": 320, "y": -570}
+            ]
+        },
+        {
+            "difficulty": 160,
+            "coldown": 1500,
+            "elements": [
+                {"type": "Saw", "x": 70, "y": 0},
+                {"type": "Pillar", "x": 320, "y": -316},
+                {"type": "Saw", "x": 320, "y": -300},
+                {"type": "Saw", "x": 570, "y": -600},
+                {"type": "Atom", "x": 195, "y": -150},
+                {"type": "Atom", "x": 135, "y": -210},
+                {"type": "Atom", "x": 135, "y": -270},
+                {"type": "Atom", "x": 135, "y": -330},
+                {"type": "Atom", "x": 135, "y": -390},
+                {"type": "Atom", "x": 135, "y": -450},
+                {"type": "Atom", "x": 135, "y": -510}
+            ]
+        },
+        {
+            "difficulty": 80,
+            "coldown": 600,
+            "elements": [
+                {"type": "Pillar", "x": 320, "y": -16},
+                {"type": "Saw", "x": 490, "y": 0},
+                {"type": "Saw", "x": 320, "y": 0},
+                {"type": "Atom", "x": 220, "y": -100},
+                {"type": "Atom", "x": 280, "y": -150},
+                {"type": "Atom", "x": 350, "y": -170},
+                {"type": "Atom", "x": 430, "y": -180},
+                {"type": "Atom", "x": 520, "y": -185}
+            ]
+        },
+        {
+            "difficulty": 40,
+            "coldown": 600,
+            "elements": [
+                {"type": "Pillar", "x": 320, "y": -16},
+                {"type": "Saw", "x": 320, "y": 0},
+                {"type": "Atom", "x": 270, "y": -150},
+                {"type": "Atom", "x": 270, "y": -250},
+                {"type": "Atom", "x": 320, "y": -200},
+                {"type": "Atom", "x": 370, "y": -250},
+                {"type": "Atom", "x": 370, "y": -150}
+            ]
+        },
+        {
+            "difficulty": 40,
+            "coldown": 600,
+            "elements": [
+                {"type": "Saw", "x": 70, "y": 0},
+                {"type": "Atom", "x": 160, "y": -100},
+                {"type": "Atom", "x": 160, "y": -175},
+                {"type": "Atom", "x": 160, "y": -250},
+                {"type": "Atom", "x": 160, "y": -325},
+                {"type": "Atom", "x": 160, "y": -400}
+            ]
+        },
+        {
+            "difficulty": 30,
+            "coldown": 600,
+            "elements": [
+                {"type": "Enemy", "x": 570, "y": 0},
+                {"type": "Atom", "x": 480, "y": -100},
+                {"type": "Atom", "x": 480, "y": -175},
+                {"type": "Atom", "x": 480, "y": -250},
+                {"type": "Atom", "x": 480, "y": -325},
+                {"type": "Atom", "x": 480, "y": -400}
+            ]
+        }
+    ]
+}

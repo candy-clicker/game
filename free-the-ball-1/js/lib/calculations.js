@@ -1,0 +1,1 @@
+function getAwardScores(n,r,e,t){return 5*n*100}function getAwardMoney(n,r,e,t){return 1*r*10}

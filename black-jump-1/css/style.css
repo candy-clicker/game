@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "font";
+    src: url("font.ttf") format("truetype");
+}
+
+html, body	{
+    overflow: hidden;
+    background-color: #000;
+}
+
+#GameContainer	{
+    z-index: -1000;
+}

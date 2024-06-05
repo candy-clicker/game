@@ -1,0 +1,23 @@
+{
+  "resetProgress": "Reset progress?",
+  "playEasy": "Easy",
+  "playHard": "Hard",
+  "level": "Level",
+  "yes": "Yes",
+  "no": "No",
+  "getHint": "Get",
+  "back": "Back",
+  "shuffle": "ARE YOU SURE?",
+  "nextlevel": "Next",
+  "score": "Score",
+  "restart": "Restart",
+  "continue": "Continue",
+  "home": "Home",
+  "sound": "Sound",
+  "music": "Music",
+  "watchADHint": "Watch AD to get +1 hint",
+  "watchADTime": "Watch AD to get +<x> seconds",
+  "noMatches": "No more matches",
+  "timebonus": "TIME BONUS",
+  "hardI": "Challenge yourself with the new hard mode! In this mode:\n\n● You have to clear the level within the time limit\n● You can only use a limited number of hints\n● There's fewer repeating tiles in each level"
+}

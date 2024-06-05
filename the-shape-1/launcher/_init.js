@@ -1,0 +1,1 @@
+function _initVars(){window.gameLangs=["en","de","es","fr","it","pt","ru","tr","nl","pl"],window.gameJS=["launcher/font-loader.js","launcher/game-loader.js","launcher/game-min.js"],window.gameOnLoadScript="egret_h5.startGame();"}_initVars();

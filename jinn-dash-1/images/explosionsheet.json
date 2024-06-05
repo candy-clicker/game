@@ -1,0 +1,414 @@
+{
+    "frames": {
+        "explosion_0": {
+            "frame": {
+                "x": 830,
+                "y": 692,
+                "w": 69,
+                "h": 77
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 69,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 69,
+                "h": 77
+            }
+        },
+        "explosion_1": {
+            "frame": {
+                "x": 0,
+                "y": 786,
+                "w": 108,
+                "h": 118
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 108,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 108,
+                "h": 118
+            }
+        },
+        "explosion_10": {
+            "frame": {
+                "x": 559,
+                "y": 256,
+                "w": 267,
+                "h": 254
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 267,
+                "h": 254
+            },
+            "sourceSize": {
+                "w": 267,
+                "h": 254
+            }
+        },
+        "explosion_11": {
+            "frame": {
+                "x": 255,
+                "y": 546,
+                "w": 244,
+                "h": 235
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 244,
+                "h": 235
+            },
+            "sourceSize": {
+                "w": 244,
+                "h": 235
+            }
+        },
+        "explosion_12": {
+            "frame": {
+                "x": 501,
+                "y": 546,
+                "w": 231,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 231,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 231,
+                "h": 192
+            }
+        },
+        "explosion_13": {
+            "frame": {
+                "x": 830,
+                "y": 377,
+                "w": 169,
+                "h": 158
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 169,
+                "h": 158
+            },
+            "sourceSize": {
+                "w": 169,
+                "h": 158
+            }
+        },
+        "explosion_14": {
+            "frame": {
+                "x": 830,
+                "y": 537,
+                "w": 164,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 164,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 164,
+                "h": 153
+            }
+        },
+        "explosion_2": {
+            "frame": {
+                "x": 830,
+                "y": 193,
+                "w": 168,
+                "h": 182
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 168,
+                "h": 182
+            },
+            "sourceSize": {
+                "w": 168,
+                "h": 182
+            }
+        },
+        "explosion_3": {
+            "frame": {
+                "x": 830,
+                "y": 0,
+                "w": 203,
+                "h": 191
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 203,
+                "h": 191
+            },
+            "sourceSize": {
+                "w": 203,
+                "h": 191
+            }
+        },
+        "explosion_4": {
+            "frame": {
+                "x": 0,
+                "y": 546,
+                "w": 253,
+                "h": 238
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 238
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 238
+            }
+        },
+        "explosion_5": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 287,
+                "h": 286
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 287,
+                "h": 286
+            },
+            "sourceSize": {
+                "w": 287,
+                "h": 286
+            }
+        },
+        "explosion_6": {
+            "frame": {
+                "x": 289,
+                "y": 0,
+                "w": 268,
+                "h": 268
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 268,
+                "h": 268
+            },
+            "sourceSize": {
+                "w": 268,
+                "h": 268
+            }
+        },
+        "explosion_7": {
+            "frame": {
+                "x": 559,
+                "y": 0,
+                "w": 269,
+                "h": 254
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 269,
+                "h": 254
+            },
+            "sourceSize": {
+                "w": 269,
+                "h": 254
+            }
+        },
+        "explosion_8": {
+            "frame": {
+                "x": 269,
+                "y": 288,
+                "w": 269,
+                "h": 254
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 269,
+                "h": 254
+            },
+            "sourceSize": {
+                "w": 269,
+                "h": 254
+            }
+        },
+        "explosion_9": {
+            "frame": {
+                "x": 0,
+                "y": 288,
+                "w": 267,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 267,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 267,
+                "h": 256
+            }
+        },
+        "fire": {
+            "frame": {
+                "x": 901,
+                "y": 746,
+                "w": 118,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 118,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 118,
+                "h": 12
+            }
+        },
+        "fire2": {
+            "frame": {
+                "x": 901,
+                "y": 692,
+                "w": 111,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 111,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 111,
+                "h": 25
+            }
+        },
+        "fire3": {
+            "frame": {
+                "x": 901,
+                "y": 719,
+                "w": 111,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 111,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 111,
+                "h": 25
+            }
+        },
+        "fire4": {
+            "frame": {
+                "x": 1000,
+                "y": 219,
+                "w": 26,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 26,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 26,
+                "h": 20
+            }
+        },
+        "fire_3": {
+            "frame": {
+                "x": 1000,
+                "y": 193,
+                "w": 26,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 26,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 26,
+                "h": 24
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "explosionsheet.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1033,
+            "h": 904
+        },
+        "scale": 1
+    }
+}

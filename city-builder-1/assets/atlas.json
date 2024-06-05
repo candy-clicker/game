@@ -1,0 +1,745 @@
+{
+    "textures": [
+        {
+            "image": "assets/atlas-0.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 1599,
+                "h": 2017
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "bg-game1.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "frame": {
+                        "x": 1,
+                        "y": 1,
+                        "w": 720,
+                        "h": 1080
+                    }
+                },
+                {
+                    "filename": "block-bottom.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 582,
+                        "h": 336
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 582,
+                        "h": 336
+                    },
+                    "frame": {
+                        "x": 1,
+                        "y": 1083,
+                        "w": 582,
+                        "h": 336
+                    }
+                },
+                {
+                    "filename": "popup-end.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 388,
+                        "h": 403
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 388,
+                        "h": 403
+                    },
+                    "frame": {
+                        "x": 1,
+                        "y": 1421,
+                        "w": 388,
+                        "h": 403
+                    }
+                },
+                {
+                    "filename": "popup-play.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 388,
+                        "h": 403
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 388,
+                        "h": 403
+                    },
+                    "frame": {
+                        "x": 1,
+                        "y": 1421,
+                        "w": 388,
+                        "h": 403
+                    }
+                },
+                {
+                    "filename": "txt-good.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 241,
+                        "h": 190
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 241,
+                        "h": 190
+                    },
+                    "frame": {
+                        "x": 1,
+                        "y": 1826,
+                        "w": 241,
+                        "h": 190
+                    }
+                },
+                {
+                    "filename": "btn-map.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 262,
+                        "h": 83
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 262,
+                        "h": 83
+                    },
+                    "frame": {
+                        "x": 244,
+                        "y": 1826,
+                        "w": 262,
+                        "h": 83
+                    }
+                },
+                {
+                    "filename": "btn-newgame.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 262,
+                        "h": 83
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 262,
+                        "h": 83
+                    },
+                    "frame": {
+                        "x": 244,
+                        "y": 1911,
+                        "w": 262,
+                        "h": 83
+                    }
+                },
+                {
+                    "filename": "popup.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 388,
+                        "h": 403
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 388,
+                        "h": 403
+                    },
+                    "frame": {
+                        "x": 391,
+                        "y": 1421,
+                        "w": 388,
+                        "h": 403
+                    }
+                },
+                {
+                    "filename": "btn-next.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 262,
+                        "h": 83
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 262,
+                        "h": 83
+                    },
+                    "frame": {
+                        "x": 508,
+                        "y": 1826,
+                        "w": 262,
+                        "h": 83
+                    }
+                },
+                {
+                    "filename": "btn-play.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 262,
+                        "h": 83
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 262,
+                        "h": 83
+                    },
+                    "frame": {
+                        "x": 508,
+                        "y": 1911,
+                        "w": 262,
+                        "h": 83
+                    }
+                },
+                {
+                    "filename": "btn-restart.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 262,
+                        "h": 83
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 262,
+                        "h": 83
+                    },
+                    "frame": {
+                        "x": 772,
+                        "y": 1826,
+                        "w": 262,
+                        "h": 83
+                    }
+                },
+                {
+                    "filename": "bar-blocks.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 217,
+                        "h": 81
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 217,
+                        "h": 81
+                    },
+                    "frame": {
+                        "x": 772,
+                        "y": 1911,
+                        "w": 217,
+                        "h": 81
+                    }
+                },
+                {
+                    "filename": "bar-points.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 217,
+                        "h": 80
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 217,
+                        "h": 80
+                    },
+                    "frame": {
+                        "x": 991,
+                        "y": 1911,
+                        "w": 217,
+                        "h": 80
+                    }
+                },
+                {
+                    "filename": "txt-perfect.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 320,
+                        "h": 249
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 320,
+                        "h": 249
+                    },
+                    "frame": {
+                        "x": 585,
+                        "y": 1083,
+                        "w": 320,
+                        "h": 249
+                    }
+                },
+                {
+                    "filename": "btn-close.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 55,
+                        "h": 55
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 55,
+                        "h": 55
+                    },
+                    "frame": {
+                        "x": 585,
+                        "y": 1334,
+                        "w": 55,
+                        "h": 55
+                    }
+                },
+                {
+                    "filename": "block-top.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 265,
+                        "h": 244
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 265,
+                        "h": 244
+                    },
+                    "frame": {
+                        "x": 781,
+                        "y": 1334,
+                        "w": 265,
+                        "h": 244
+                    }
+                },
+                {
+                    "filename": "block.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 265,
+                        "h": 244
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 265,
+                        "h": 244
+                    },
+                    "frame": {
+                        "x": 781,
+                        "y": 1580,
+                        "w": 265,
+                        "h": 244
+                    }
+                },
+                {
+                    "filename": "bg-game2.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "frame": {
+                        "x": 723,
+                        "y": 1,
+                        "w": 720,
+                        "h": 1080
+                    }
+                },
+                {
+                    "filename": "btn-start-level.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 154,
+                        "h": 96
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 154,
+                        "h": 96
+                    },
+                    "frame": {
+                        "x": 907,
+                        "y": 1083,
+                        "w": 154,
+                        "h": 96
+                    }
+                },
+                {
+                    "filename": "btn-home.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 90,
+                        "h": 98
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 90,
+                        "h": 98
+                    },
+                    "frame": {
+                        "x": 907,
+                        "y": 1181,
+                        "w": 90,
+                        "h": 98
+                    }
+                },
+                {
+                    "filename": "btn-pause.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 90,
+                        "h": 98
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 90,
+                        "h": 98
+                    },
+                    "frame": {
+                        "x": 999,
+                        "y": 1181,
+                        "w": 90,
+                        "h": 98
+                    }
+                },
+                {
+                    "filename": "building3.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 280
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 280
+                    },
+                    "frame": {
+                        "x": 1048,
+                        "y": 1281,
+                        "w": 182,
+                        "h": 280
+                    }
+                },
+                {
+                    "filename": "claw2.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 63,
+                        "h": 160
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 63,
+                        "h": 160
+                    },
+                    "frame": {
+                        "x": 1091,
+                        "y": 1083,
+                        "w": 63,
+                        "h": 160
+                    }
+                },
+                {
+                    "filename": "claw1.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 50,
+                        "h": 165
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 50,
+                        "h": 165
+                    },
+                    "frame": {
+                        "x": 1156,
+                        "y": 1083,
+                        "w": 50,
+                        "h": 165
+                    }
+                },
+                {
+                    "filename": "location-marker.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 74,
+                        "h": 110
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 74,
+                        "h": 110
+                    },
+                    "frame": {
+                        "x": 1208,
+                        "y": 1083,
+                        "w": 74,
+                        "h": 110
+                    }
+                },
+                {
+                    "filename": "building1.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 271
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 271
+                    },
+                    "frame": {
+                        "x": 1048,
+                        "y": 1563,
+                        "w": 182,
+                        "h": 271
+                    }
+                },
+                {
+                    "filename": "building8.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 268
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 268
+                    },
+                    "frame": {
+                        "x": 1232,
+                        "y": 1195,
+                        "w": 182,
+                        "h": 268
+                    }
+                },
+                {
+                    "filename": "building4.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 265
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 265
+                    },
+                    "frame": {
+                        "x": 1232,
+                        "y": 1465,
+                        "w": 182,
+                        "h": 265
+                    }
+                },
+                {
+                    "filename": "building6.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 261
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 261
+                    },
+                    "frame": {
+                        "x": 1232,
+                        "y": 1732,
+                        "w": 182,
+                        "h": 261
+                    }
+                },
+                {
+                    "filename": "building2.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 259
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 259
+                    },
+                    "frame": {
+                        "x": 1416,
+                        "y": 1083,
+                        "w": 182,
+                        "h": 259
+                    }
+                },
+                {
+                    "filename": "building5.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 259
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 259
+                    },
+                    "frame": {
+                        "x": 1416,
+                        "y": 1344,
+                        "w": 182,
+                        "h": 259
+                    }
+                },
+                {
+                    "filename": "building7.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 182,
+                        "h": 258
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 182,
+                        "h": 258
+                    },
+                    "frame": {
+                        "x": 1416,
+                        "y": 1605,
+                        "w": 182,
+                        "h": 258
+                    }
+                }
+            ]
+        },
+        {
+            "image": "assets/atlas-1.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 1444,
+                "h": 1082
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "bg-game3.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "frame": {
+                        "x": 1,
+                        "y": 1,
+                        "w": 720,
+                        "h": 1080
+                    }
+                },
+                {
+                    "filename": "bg-map.png",
+                    "rotated": false,
+                    "trimmed": false,
+                    "sourceSize": {
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 720,
+                        "h": 1080
+                    },
+                    "frame": {
+                        "x": 723,
+                        "y": 1,
+                        "w": 720,
+                        "h": 1080
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "version": "3.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:e8ec17aebd43c668dbf9e72752ea0b00:80564a84c737c70ff2812a2373a49110:22b907022c4170ab46ec29e7f3ec6421$"
+    }
+}

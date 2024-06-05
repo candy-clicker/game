@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","Touch","Tower"],collisionMatrix:[[true],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/HomeScene.fire",orientation:"",jsList:[]};

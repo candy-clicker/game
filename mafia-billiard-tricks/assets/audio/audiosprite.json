@@ -1,0 +1,69 @@
+{
+  "resources": [
+    "../assets/audio/audiosprite.mp3",
+    "../assets/audio/audiosprite.ogg",
+    "../assets/audio/audiosprite.m4a"
+  ],
+  "spritemap": {
+    "ball_hit": {
+      "start": 0,
+      "end": 0.17222222222222222,
+      "loop": false
+    },
+    "click_btn": {
+      "start": 2,
+      "end": 2.2263492063492065,
+      "loop": false
+    },
+    "cue_hit": {
+      "start": 4,
+      "end": 4.333786848072562,
+      "loop": false
+    },
+    "cushion_hit": {
+      "start": 6,
+      "end": 6.125170068027211,
+      "loop": false
+    },
+    "music_1_star": {
+      "start": 8,
+      "end": 12.048979591836734,
+      "loop": false
+    },
+    "music_2_star": {
+      "start": 14,
+      "end": 18.048979591836734,
+      "loop": false
+    },
+    "music_3_star": {
+      "start": 20,
+      "end": 25.041632653061225,
+      "loop": false
+    },
+    "music_dialogue": {
+      "start": 27,
+      "end": 54.36555555555556,
+      "loop": false
+    },
+    "music_gameover": {
+      "start": 56,
+      "end": 60.34575963718821,
+      "loop": false
+    },
+    "music_menu": {
+      "start": 62,
+      "end": 133.47102040816327,
+      "loop": false
+    },
+    "page_swoosh": {
+      "start": 135,
+      "end": 135.4267573696145,
+      "loop": false
+    },
+    "pocket_hit": {
+      "start": 137,
+      "end": 137.50068027210884,
+      "loop": false
+    }
+  }
+}

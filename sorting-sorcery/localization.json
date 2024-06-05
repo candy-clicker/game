@@ -1,0 +1,395 @@
+{
+	"words" : [
+	{
+		"id" : "great",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Great!"
+		},
+		{
+			"id": "fr",
+			"translation": "Super!"
+		},
+		{
+			"id": "de",
+			"translation": "Super!"
+		},
+		{
+			"id": "it",
+			"translation": "Grandioso!"
+		},
+		{
+			"id": "pl",
+			"translation": "Wspaniale!"
+		},
+		{
+			"id": "es",
+			"translation": "¡Fabuloso!"
+		}
+
+		]
+	},
+	{
+		"id" : "excellent",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Excellent!"
+		},
+		{
+			"id": "fr",
+			"translation": "Excellent!"
+		},
+		{
+			"id": "de",
+			"translation": "Gut gemacht!"
+		},
+		{
+			"id": "it",
+			"translation": "Ottimo!"
+		},
+		{
+			"id": "pl",
+			"translation": "Cudownie!"
+		},
+		{
+			"id": "es",
+			"translation": "¡Excelente!"
+		}
+
+		]
+	},
+	{
+		"id" : "lose",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Try again"
+		},
+		{
+			"id": "fr",
+			"translation": "Essaie encore"
+		},
+		{
+			"id": "de",
+			"translation": "Versuch es noch einmal"
+		},
+		{
+			"id": "it",
+			"translation": "Riprova"
+		},
+		{
+			"id": "pl",
+			"translation": "Spróbuj ponownie"
+		},
+		{
+			"id": "es",
+			"translation": "Reintentar"
+		}
+
+		]
+	},
+	{
+		"id" : "time",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Time"
+		},
+		{
+			"id": "fr",
+			"translation": "Temps"
+		},
+		{
+			"id": "de",
+			"translation": "Zeit"
+		},
+		{
+			"id": "it",
+			"translation": "Tempo"
+		},
+		{
+			"id": "pl",
+			"translation": "Czas"
+		},
+		{
+			"id": "es",
+			"translation": "Tiempo"
+		}
+
+		]
+	},
+	{
+		"id" : "howToPlay",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "How to play"
+		},
+		{
+			"id": "fr",
+			"translation": "Comment jouer"
+		},
+		{
+			"id": "de",
+			"translation": "So wird gespielt"
+		},
+		{
+			"id": "it",
+			"translation": "Come giocare"
+		},
+		{
+			"id": "pl",
+			"translation": "Jak grać"
+		},
+		{
+			"id": "es",
+			"translation": "Cómo se juega"
+		}
+
+		]
+	},
+	{
+		"id" : "level",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Level"
+		},
+		{
+			"id": "fr",
+			"translation": "Niveau"
+		},
+		{
+			"id": "de",
+			"translation": "Level"
+		},
+		{
+			"id": "it",
+			"translation": "Livello"
+		},
+		{
+			"id": "pl",
+			"translation": "Poziom"
+		},
+		{
+			"id": "es",
+			"translation": "Nivel"
+		}
+
+		]
+	},
+	{
+		"id" : "selectLevel",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Select level"
+		},
+		{
+			"id": "fr",
+			"translation": "Choisir le niveau"
+		},
+		{
+			"id": "de",
+			"translation": "Level wählen"
+		},
+		{
+			"id": "it",
+			"translation": "Seleziona livello"
+		},
+		{
+			"id": "pl",
+			"translation": "Wybierz poziom"
+		},
+		{
+			"id": "es",
+			"translation": "Seleccionar Nivel"
+		}
+
+		]
+	},
+	{
+		"id" : "sfx",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "SFX"
+		},
+		{
+			"id": "fr",
+			"translation": "Son"
+		},
+		{
+			"id": "de",
+			"translation": "SFX"
+		},
+		{
+			"id": "it",
+			"translation": "SFX"
+		},
+		{
+			"id": "pl",
+			"translation": "Efekty"
+		},
+		{
+			"id": "es",
+			"translation": "Sonidos"
+		}
+
+		]
+	},
+	{
+		"id" : "music",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Music"
+		},
+		{
+			"id": "fr",
+			"translation": "Musique"
+		},
+		{
+			"id": "de",
+			"translation": "Musik"
+		},
+		{
+			"id": "it",
+			"translation": "Musica"
+		},
+		{
+			"id": "pl",
+			"translation": "Muzyka"
+		},
+		{
+			"id": "es",
+			"translation": "Música"
+		}
+
+		]
+	},
+	{
+		"id" : "language",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Language"
+		},
+		{
+			"id": "fr",
+			"translation": "Langue"
+		},
+		{
+			"id": "de",
+			"translation": "Sprache"
+		},
+		{
+			"id": "it",
+			"translation": "Lingua"
+		},
+		{
+			"id": "pl",
+			"translation": "Język"
+		},
+		{
+			"id": "es",
+			"translation": "Idioma"
+		}
+
+		]
+	},
+	{
+		"id" : "noAds",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "No ads this time ;) Enjoy your reward!"
+		},
+		{
+			"id": "fr",
+			"translation": "Pas de pub dispo. Voici ton gain!"
+		},
+		{
+			"id": "de",
+			"translation": "Keine Werbung ;) Viel Spaß mit deiner Belohnung!"
+		},
+		{
+			"id": "it",
+			"translation": "Nessun annuncio stavolta ;) Goditi la ricompensa!"
+		},
+		{
+			"id": "pl",
+			"translation": "Tym razem brak reklam ;) Ciesz się z nagrody!"
+		},
+		{
+			"id": "es",
+			"translation": "Ahora sin anuncios ;) ¡Disfruta de tu recompensa!"
+		}
+
+		]
+	},
+	{
+		"id" : "tutorial",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Tutorial"
+		},
+		{
+			"id": "fr",
+			"translation": "Tutoriel"
+		},
+		{
+			"id": "de",
+			"translation": "Tutorial"
+		},
+		{
+			"id": "it",
+			"translation": "Tutorial"
+		},
+		{
+			"id": "pl",
+			"translation": "Instruktaż"
+		},
+		{
+			"id": "es",
+			"translation": "Tutorial"
+		}
+
+		]
+	},
+	{
+		"id" : "settings",
+		"locale" : [
+		{
+			"id": "en",
+			"translation": "Settings"
+		},
+		{
+			"id": "fr",
+			"translation": "Réglages"
+		},
+		{
+			"id": "de",
+			"translation": "Einstellungen"
+		},
+		{
+			"id": "it",
+			"translation": "Impostazioni"
+		},
+		{
+			"id": "pl",
+			"translation": "Ustawienia"
+		},
+		{
+			"id": "es",
+			"translation": "Ajustes"
+		}
+
+		]
+	}
+	]
+	
+}

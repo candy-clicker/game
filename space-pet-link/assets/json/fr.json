@@ -1,0 +1,23 @@
+{
+  "resetProgress": "Réinitialiser les progrès ?",
+  "playEasy": "Facile",
+  "playHard": "Difficile",
+  "level": "Niveau",
+  "yes": "Oui",
+  "no": "Non",
+  "getHint": "Lire",
+  "back": "Retour",
+  "shuffle": "ÊTES-VOUS SÛR ?",
+  "nextlevel": "Suivant",
+  "score": "Score",
+  "restart": "Recommencer",
+  "continue": "Continuer",
+  "home": "Accueil",
+  "sound": "Son",
+  "music": "Musique",
+  "watchADHint": "Regarder une pub pour obtenir +1 indice",
+  "watchADTime": "Regarder une pub pour obtenir +<x> secondes",
+  "noMatches": "Plus d'alliances possibles",
+  "timebonus": "TEMPS BONUS",
+  "hardI": "Mettez-vous au défi avec le nouveau mode difficile ! Dans ce mode :\n\n● Vous devez terminer le niveau en un temps donné\n● Vous ne pouvez utiliser qu'un nombre limité d'indices\n● Il y a moins de tuiles identiques dans chaque niveau"
+}

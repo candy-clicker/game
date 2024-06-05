@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "best_badge": {
+            "frame": {
+                "x": 824,
+                "y": 962,
+                "w": 181,
+                "h": 187
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 187
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 187
+            }
+        },
+        "gameover_window_bg": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 814,
+                "h": 656
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 814,
+                "h": 656
+            },
+            "sourceSize": {
+                "w": 814,
+                "h": 656
+            }
+        },
+        "highscores_window_bg": {
+            "frame": {
+                "x": 824,
+                "y": 0,
+                "w": 813,
+                "h": 656
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 813,
+                "h": 656
+            },
+            "sourceSize": {
+                "w": 813,
+                "h": 656
+            }
+        },
+        "no_more_hints_bg": {
+            "frame": {
+                "x": 0,
+                "y": 666,
+                "w": 814,
+                "h": 516
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 814,
+                "h": 516
+            },
+            "sourceSize": {
+                "w": 814,
+                "h": 516
+            }
+        },
+        "putin_name_panel_bg": {
+            "frame": {
+                "x": 824,
+                "y": 666,
+                "w": 733,
+                "h": 286
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 733,
+                "h": 286
+            },
+            "sourceSize": {
+                "w": 733,
+                "h": 286
+            }
+        },
+        "time_up_pattern": {
+            "frame": {
+                "x": 1015,
+                "y": 962,
+                "w": 445,
+                "h": 55
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 445,
+                "h": 55
+            },
+            "sourceSize": {
+                "w": 445,
+                "h": 55
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "popups.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1637,
+            "h": 1182
+        },
+        "scale": 1
+    }
+}

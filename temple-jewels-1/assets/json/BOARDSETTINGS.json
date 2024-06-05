@@ -1,0 +1,80 @@
+{
+
+    "widthMin" : 4,
+    "widthMax" : 20,
+    "heightMin" : 4,
+    "heightMax" : 20,
+
+    "normalGems": ["1","2","3","4","5","6","7","8"],
+
+    "gemSettings" : {
+        "mergeSpeed": 300,
+        "matchTime": 400,
+        "fallSpdDelta": 2,
+        "fallSpdMax": 30
+    },
+ 
+    "layers": [
+        {
+            "label": "floor",
+            "blockMove": true,
+            "blockMatch": true,
+            "blockChange": true,
+            "reverse": true,
+            "objConstructor": "FloorTile",
+            "floor": true,
+            "editorPrefix": "X",
+            "editorIcon": "square_tile",
+            "caching": true
+        },
+        {
+            "label": "colors",
+            "blockMove": false,
+            "blockMatch": false,
+            "caching": true,
+            "objConstructor": "ColorDirt",
+            "blocker": {
+                "maxHp" : 4,
+                "sprite" : "square_dirt_1",
+                "onHit" : false,
+                "onMatch" : true
+            },
+            "editorPrefix": "&",
+            "editorIcon": "square_dirt_2",
+            "caching": true
+        },
+        {
+            "label": "blockers",
+            "blockMove": true,
+            "blockMatch": true,
+            "caching": true,
+            "objConstructor": "Blocker",
+            "blocker": {
+                "maxHp" : 1,
+                "sprite" : "hex_blocker",
+                "onHit" : false,
+                "onMatch" : false
+            },
+            "editorPrefix": "*",
+            "editorIcon": "hex_blocker",
+            "caching": true
+        },
+        {   
+            "label": "gems",
+            "blockMove": false,
+            "blockMatch": false,
+            "objConstructor": "Gem",
+            "gems": true,
+            "editorPrefix": "@",
+            "editorIcon": "d_2",
+            "editorPossibilities": [
+                [["1","d_1"],["2","d_2"],["3","d_3"],["4","d_4"],["5","d_5"],["6","d_6"],["7","d_7"],["8","d_8"],["r","d_r"]],
+                [],
+                []
+            ]
+        }
+
+    ]
+
+
+}
